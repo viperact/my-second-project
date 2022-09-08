@@ -54,3 +54,7 @@
     >staging area에 있는 파일을 working directory로 가져옴
 
 ![git cheat sheet](asset/gitcheatsheet.gif)
+
+|번호|이름|지역|
+|---|---|---|
+|111|홍길동|서울|
